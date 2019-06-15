@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="exam">
+    <output-path>$PROJECT_DIR$/WebRoot</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="WebRoot">
+          <element id="module-output" name="exam" />
+          </element>
+        </element>
+      <element id="javaee-facet-resources" facet="onlineExam/web/Web" />
+    </root>
+  </artifact>
+</component>
